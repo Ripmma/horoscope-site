@@ -1,1 +1,1 @@
-# HoroscopeSite
+horoscope-site
