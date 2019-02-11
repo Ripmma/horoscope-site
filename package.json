@@ -1,8 +1,11 @@
 {
-  "homepage": "http://ripmma.github.io/horoscope-site",
   "name": "horoscope-site",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "6.10.2",
+    "npm": "6.4.1"
+  },
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.2.1",
@@ -31,6 +34,7 @@
   ],
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
+  "homepage": "https://ripmma.github.io/horoscope-site",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   },
