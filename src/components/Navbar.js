@@ -37,7 +37,7 @@ class NavBar extends Component {
 		          <Collapse isOpen={this.state.isOpen} navbar>
 		            <Nav className="ml-auto" navbar>
 		              <NavItem>
-		                <NavLink href="https://github.com/Ripmma/HoroscopeSite">GitHub</NavLink>
+		                <NavLink href="https://github.com/Ripmma/horoscope-site">GitHub</NavLink>
 		              </NavItem>
 		            </Nav>
 		          </Collapse>
